@@ -174,7 +174,7 @@ mkdir "$(date)"
 **Kendala Yang Dialami**
 
 **Screenshot**
-!image[screenshot1](https://drive.google.com/file/d/104zDQSbc_8jtW0LYPzDbMYMfeK1fva8v/view?usp=sharing)
+![Screenshot from 2020-03-13 14-06-44.png](Screenshot from 2020-03-13 14-06-44.png)
 
 **Soal**
 
