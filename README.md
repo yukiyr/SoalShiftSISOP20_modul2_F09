@@ -176,6 +176,7 @@ mkdir "$(date)"
 -
 
 **Screenshot**
+
 ![Screenshoot](img/ss.png)
 
 **Soal**
@@ -370,3 +371,6 @@ int main() {
 -
 
 **Screenshot**
+
+![Screenshoot](img/ss3.png)
+
