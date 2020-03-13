@@ -59,12 +59,10 @@ int main() {
 					if (child_id_5 == 0) {
                                         	char *argv[3] = {"unzip", "/home/test/modul2/jpg.zip", NULL};
                                         	execv("/usr/bin/unzip", argv);
-
-        	                                char *argv2[5] = {"cp", "-r", "/home/test/SISOP2/DUA/SHIFT/jpg", "/home/test/modul2", NULL};
-	                                        execv("/bin/cp", argv2);
-
 					} else {
 						while ((wait(&status5)) > 0);
+						char *argv2[5] = {"cp", "-r", "/home/test/SISOP2/DUA/SHIFT/jpg", "/home/test/modul2", NULL};
+	                                        execv("/bin/cp", argv2);
                                                 pid_t child_id_6;
                                                 child_id_6 = fork();
                                                 if (child_id_6 == 0) {
