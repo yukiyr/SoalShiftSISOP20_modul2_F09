@@ -174,7 +174,7 @@ mkdir "$(date)"
 **Kendala Yang Dialami**
 
 **Screenshot**
-![Screenshoot](ss.png)
+![Screenshoot](img/ss.png)
 
 **Soal**
 
